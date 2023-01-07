@@ -3,6 +3,10 @@ html, body {
   margin:0;
 }
 
+section {
+  padding:20px;
+}
+
 .or-2col {
   display: flex;
   flex-direction: column;
